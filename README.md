@@ -1,10 +1,10 @@
 # PDF Chatbot using FastAPI + LangChain
 
-Upload PDF (upload - parse - extract text )
+Upload PDF (upload - parse - extract text ) -> Done
 
 ↓
 
-Chunk
+Chunk -> Done
 
 ↓
 
